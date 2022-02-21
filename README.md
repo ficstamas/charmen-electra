@@ -1,3 +1,6 @@
 # Charmen ELECTRA
 
-Az előtanított modellek használt checkpoint-jai elérhetőek [ezen](http://rgai1.inf.u-szeged.hu/~berend/mszny2022/) a linken!
+Checkpoint-ok: [http://rgai1.inf.u-szeged.hu/~berend/mszny2022/](http://rgai1.inf.u-szeged.hu/~berend/mszny2022/)
+
+Ezek könnyen betölthetőek egy fej nélküli modulba a [model/load.py](model/load.py) fileban található `load_charmen_electra` függvénnyel.
+
